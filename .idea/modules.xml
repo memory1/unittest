@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/unittest_pytest.iml" filepath="$PROJECT_DIR$/.idea/unittest_pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../with_fixture/.idea/with_fixture.iml" filepath="$PROJECT_DIR$/../with_fixture/.idea/with_fixture.iml" />
+    </modules>
+  </component>
+</project>
